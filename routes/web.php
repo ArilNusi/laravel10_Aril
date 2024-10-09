@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/dashboard', function () {
     return view('pages.dashboard', ['type_menu' => 'dashboard']);
 });
+Route::get('/login', function () {
+    return view('pages.login', ['type_menu' => 'login']);
+});
+

@@ -491,7 +491,7 @@
                                     </tr>
                                     <tr>
                                         <td><a href="#">INV-48574</a></td>
-                                        <td class="font-weight-600">Hasan Basri</td>
+                                        <td class="font-weight-600">Aril Nusi</td>
                                         <td>
                                             <div class="badge badge-success">Paid</div>
                                         </td>
@@ -503,7 +503,7 @@
                                     </tr>
                                     <tr>
                                         <td><a href="#">INV-76824</a></td>
-                                        <td class="font-weight-600">Muhamad Nuruzzaki</td>
+                                        <td class="font-weight-600">Rizkyawan</td>
                                         <td>
                                             <div class="badge badge-warning">Unpaid</div>
                                         </td>
@@ -515,7 +515,7 @@
                                     </tr>
                                     <tr>
                                         <td><a href="#">INV-84990</a></td>
-                                        <td class="font-weight-600">Agung Ardiansyah</td>
+                                        <td class="font-weight-600">Usman Akule</td>
                                         <td>
                                             <div class="badge badge-warning">Unpaid</div>
                                         </td>
